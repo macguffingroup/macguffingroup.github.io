@@ -5,9 +5,9 @@
 layout: home
 ---
 
-# <center>Wicked Imperial
+# <center>The MacGuffin Group
 
-Wicked Imperial is the developer of Croquet DeadWatch a deadness board for iPhone, iPad and Apple Watch.
+The MacGuffin Group is the developer of Croquet DeadWatch a deadness board for iPhone, iPad and Apple Watch.
 
 The app is currently unavailable on the app store and hasn't been updated in a few years. Both of these will change shortly. This paragraph was written on 4/23/2020 just to keep me honest.
 
@@ -31,4 +31,4 @@ The apps on the two devices are not connected in this version. Updates made on t
 
 The Croquet DeadWatch logo was created by [James Gallardo](http://www.jgallardodesigns.com/). But don't blame him for the design of the app or this webpage though, those are totally my fault. I just asked him for help with the logo.
 
-Copyright &copy;2020 Wicked Imperial, LLC. All rights reserved.
+Copyright &copy;2023 The MacGuffin Group, LLC. All rights reserved.
