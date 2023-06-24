@@ -5,4 +5,4 @@ permalink: /support/
 ---
 
 # <center>Support</center>
-For support email [support@wickedimperial.com](mailto:support@wickedimperial.com")
+For support email [support@macguffingroup.com](mailto:support@macguffingroup.com")
