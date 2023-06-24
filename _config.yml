@@ -22,7 +22,6 @@ email: support@macguffingroup.com
 title: The MacGuffin Group
 description: >- # this means to ignore newlines until "baseurl:"
   The new name for the developer of Croquet DeadWatch
-  <br>
   Driving the plot - https://en.wikipedia.org/wiki/MacGuffin
 baseurl: "" # the subpath of your site, e.g. /blog
 email: support@macguffingroup.com
