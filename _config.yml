@@ -1,0 +1,12 @@
+title: MacGuffin Group
+email: support@macguffingroup.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The New Name of the Developer of Croquet Deadwatch
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://macguffingroup.com" # the base hostname & protocol for your site, e.g. http://example.com
+# Copyright © 2023 MacGuffinGroup, LLC. All rights reserved.
+# Build settings
+theme: minima
+#remote_theme: vsoch/docsy-jekyll
+plugins:
+  - jekyll-feed
