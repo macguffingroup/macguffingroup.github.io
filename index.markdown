@@ -12,5 +12,3 @@ Croquet Deadness tracks deadness between balls in American Six-Wicket Croquet, a
 Three ball styles are included: the traditional blue / red / black / yellow set, an alternate green / pink / brown / white set, and a striped variant of the traditional colors. Games auto-save, so dismissing the app mid-match doesn't lose state.
 
 Instructions for both platforms are bundled with the app.
-
-Copyright &copy;2026 The MacGuffin Group, LLC. All rights reserved.

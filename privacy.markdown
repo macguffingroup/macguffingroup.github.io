@@ -4,8 +4,6 @@ title: Privacy
 permalink: /privacy/
 ---
 
-# <center>Privacy Policy</center>
-
 _Effective date: April 24, 2026_
 
 Croquet Deadness ("the app") is published by The MacGuffin Group. **The app does not collect, transmit, or share any personal information.** This page describes the small amount of data the app does handle, all of which stays on your device or syncs only between your own paired devices.

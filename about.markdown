@@ -16,4 +16,4 @@ Around 2016 I picked up iPhone development to see what it took. I remembered the
 
 Croquet Deadness is the 2026 rewrite: a complete rebuild in SwiftUI, with a fresh visual design and two-way sync between iPhone and Apple Watch.
 
-— [Craig Sirkin](https://csirkin.github.io/)
+— [Craig Sirkin](https://www.linkedin.com/in/craigsirkin/)
