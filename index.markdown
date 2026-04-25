@@ -7,21 +7,15 @@ layout: home
 
 # <center>The MacGuffin Group
 
-The MacGuffin Group is the developer of Croquet DeadWatch a deadness board for iPhone, iPad and Apple Watch.
+The MacGuffin Group develops **Croquet Deadness**, a deadness board for iPhone and Apple Watch.
 
-The app is currently unavailable on the app store and hasn't been updated in a few years. Both of these will change shortly. This paragraph was written on 4/23/2020 just to keep me honest.
+## <center>About the app
 
-## <center>Instructions
+Croquet Deadness tracks deadness between balls in American Six-Wicket Croquet, along with wicket progression for both 6-wicket and 9-wicket games. The iPhone and Apple Watch apps sync the current game automatically while both are running, so you can update the board from whichever device is closer to hand.
 
-Pressing on a live ball image toggles to dead. Pressing again toggles back to live. Pressing the ball color in the left hand column clears that ball completely and increments the score.
+Three ball styles are included: the traditional blue / red / black / yellow set, an alternate green / pink / brown / white set, and a striped variant of the traditional colors. Games auto-save, so dismissing the app mid-match doesn't lose state.
 
-If you clear deadness without running a wicket, eg. when your opponent runs 1-Back, manually clear deadness by pressing each ball you are dead on to toggle them to live and still keep the score accurate.
-
-Pressing 'Reset Game' will reset all scores to 0 and clear all deadness. Selecting 6 or 9 wickets will adjust the maximum score per ball accordingly. Game must be reset after changing the number of wickets for this setting to take effect.
-
-The Watch app works the same way as the phone but does not count and display the score.
-
-The apps on the two devices are not connected in this version. Updates made on the phone do not currently appear on the watch nor do updates made on the watch appear on the phone.
+Instructions for both platforms are bundled with the app.
 
 [Privacy Policy](privacy)
 
@@ -29,6 +23,6 @@ The apps on the two devices are not connected in this version. Updates made on t
 
 [About](about)
 
-The Croquet DeadWatch logo was created by [James Gallardo](http://www.jgallardodesigns.com/). But don't blame him for the design of the app or this webpage though, those are totally my fault. I just asked him for help with the logo.
+Original logo by [James Gallardo](http://www.jgallardodesigns.com/).
 
-Copyright &copy;2023 The MacGuffin Group, LLC. All rights reserved.
+Copyright &copy;2026 The MacGuffin Group, LLC. All rights reserved.

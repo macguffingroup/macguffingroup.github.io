@@ -5,4 +5,5 @@ permalink: /support/
 ---
 
 # <center>Support</center>
-For support email [support@macguffingroup.com](mailto:support@macguffingroup.com")
+
+Email [support@macguffingroup.com](mailto:support@macguffingroup.com) for help with Croquet Deadness.
