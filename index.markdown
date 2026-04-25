@@ -23,6 +23,4 @@ Instructions for both platforms are bundled with the app.
 
 [About](about)
 
-Original logo by [James Gallardo](http://www.jgallardodesigns.com/).
-
 Copyright &copy;2026 The MacGuffin Group, LLC. All rights reserved.
